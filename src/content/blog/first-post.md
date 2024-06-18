@@ -1,7 +1,7 @@
 ---
-title: 'First post'
+title: 'Poslední příspěvek'
 description: 'Lorem ipsum dolor sit amet'
-pubDate: 'Jul 08 2022'
+pubDate: 'Jul 08 2028'
 heroImage: 'blog-placeholder-3.jpg'
 ---
 
